@@ -1,3 +1,13 @@
+# Color Pallet:
+```
+$russian-violet: #231942ff;
+$steel-blue: #5b85aaff;
+$lavender-blue: #e3daffff;
+$light-goldenrod-yellow: #eaf0ceff;
+```
+Courtesy of [Coolors](https://coolors.co/)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

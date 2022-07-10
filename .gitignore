@@ -33,3 +33,9 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# IDE Config
+/.idea
+
+# Project Env
+/config
